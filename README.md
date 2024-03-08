@@ -55,11 +55,11 @@ The `Model` interface represents the model of MVC, and therefore contains all da
 
 the `ModelObserver` interface defines a single method, `update()`, and is used together with the `ModelImpl` class to implement the observer design pattern.
 
-## Controller
+### Controller
 
 The controller package in MVC is intended to act as the "glue" between the model and the view.
 
-## View
+### View
 
 The `view` package in MVC holds all code related to the GUI.
 
