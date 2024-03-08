@@ -1,0 +1,37 @@
+.base{
+    -fx-font-family: Sans-serif;
+    -fx-padding: 5px;
+    -fx-alignment: center;
+}
+
+
+.header{
+    -fx-padding: 10px;
+    -fx-text-alignment: center;
+
+}
+
+.title{
+    -fx-font-size: 30px;
+    -fx-text-alignment: center;
+}
+
+.puzzle-Num{
+    -fx-font-size: 15px;
+    -fx-text-alignment: center;
+}
+
+.controls-layout {
+    -fx-padding: 10px;
+    -fx-spacing: 5px;
+}
+
+.result{
+    -fx-font-size: 17px;
+    -fx-text-alignment: center;
+    -fx-padding: 5px 4px 0px;
+}
+
+.reset{
+    -fx-padding: 10px 0px 0px;
+}
